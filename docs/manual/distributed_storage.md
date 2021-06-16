@@ -264,7 +264,7 @@ cp nodes/127.0.0.1/sdk/* console/conf/
 将~/fisco/console/conf/config.toml修改为如下配置(部分信息)
 ```bash
 [network]
-peers=["127.0.0.1:20300", "127.0.0.1:20301"]    # The peer list to connect
+peers=["127.0.0.1:20200", "127.0.0.1:20201"]    # The peer list to connect
 ```
 #### 启用控制台
 ```bash
